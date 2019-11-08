@@ -3,6 +3,8 @@
     <p>
       /users/_id.vue
       User ID:{{userId}}
+
+
     </p>
   </dir>
 </template>
